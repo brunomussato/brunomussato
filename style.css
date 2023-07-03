@@ -39,3 +39,10 @@ p{
 .row-col12{
     height: 400px !important;
 }
+#getin{
+    color: #FF9142 !important;
+}
+.foot{
+    color: white !important;
+    font-family: 'Syne', sans-serif !important;
+}
