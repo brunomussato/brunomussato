@@ -1,0 +1,41 @@
+*{
+    background-color: #1A1A1A;
+
+}
+
+h1{
+    color: #FFFFFF !important;
+    font-size: 72px !important;
+    font-family: 'Syne', sans-serif !important;
+}
+
+h2{
+    color: #FFFFFF !important;
+    font-size: 56px !important;
+    font-family: 'Syne', sans-serif !important;
+}
+
+h3{
+    color: #A9A9A9 !important;
+    font-family: 'Syne', sans-serif !important;
+}
+
+h4{
+    color: #FFFFFF !important;
+    font-size: 24px !important;
+    font-family: 'Syne', sans-serif !important;
+
+}
+
+p{
+    color: #A8A8A8 !important;
+    font-family: 'Rubik', sans-serif !important; 
+}
+
+.firstDiv{
+    height: 400px !important;
+}
+
+.row-col12{
+    height: 400px !important;
+}
