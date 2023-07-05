@@ -1,6 +1,6 @@
 *{
-    background-color: #1A1A1A;
-
+    background-color: #1A1A1A;  
+    
 }
 
 h1{
@@ -35,6 +35,18 @@ h1:hover{
       background-position: 0 50%;
     }
   }
+
+#primeiroBotao:hover{
+
+    box-shadow: 1px 1px 10px 0.5px #A8A8A8 !important;
+
+}
+
+#segundoBotao:hover{
+
+    box-shadow: 1px 1px 10px 0.5px #A8A8A8 !important;
+
+}
 
 h2{
     color: #FFFFFF !important;
