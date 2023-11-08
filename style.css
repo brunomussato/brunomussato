@@ -105,13 +105,16 @@ body {
 	font-size: 80px;
 }
 .single-box {
-	border: 1px solid #A9A9A9;
-	padding: 50px 30px 40px;
-	border-radius: 16px;
 	background: #1A1A1A;
 }
 .img-area {
-	margin: 45px 0 20px;
+	
+}
+
+#imagemdocarrossel{
+	
+	width: 50%;
+	
 }
 
 .single-box h4 {
@@ -125,21 +128,19 @@ body {
 }
 .single-box .img-area {
 	width: 30%;
-	float: left;
-	margin: 0
+	float: center;
+	
 }
-.single-box .content {
+.content {
 	width: 70%;
-	float: left;
-	padding-left: 10px
+	float: center;
+	
 }
 .single-box p {
-	margin: 10px 0 25px;
-	line-height: 2.3;
+	
 }
 .testi-carousel-three .single-box {
-	border: 0;
-	padding: 0 50px;
+	
 }
 .testi-carousel .owl-dots, .clients-carousel .owl-dots, .testi-carousel-three .owl-dots {
 	position: absolute;
@@ -208,12 +209,14 @@ body {
 	left: 50%;
 	margin-left: -30px;
 	bottom: 20px;
+	border-radius: 24px;
   }
   
   .arrows path {
 	stroke: #FF9142;
 	fill: transparent;
 	stroke-width: 1px;  
+	border-radius: 4px;
 	animation: arrow 2s infinite;
 	-webkit-animation: arrow 2s infinite; 
   }
